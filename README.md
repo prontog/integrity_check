@@ -36,11 +36,15 @@ find out/ -name '*.pdf' -exec pdftotext -raw {} \;
 1. Create a Twitter account
 1. Create a Twitter app with an authentication token
 1. Create a .tweetrc file and add the following:
-```
-[Tweet]
-consumer_key: *consumer_key*
-consumer_secret: *consumer_password*
-access_key: *access_key*
-access_secret: *access_password*
-```
+    ```
+    [Tweet]
+    consumer_key: *consumer_key*
+    consumer_secret: *consumer_password*
+    access_key: *access_key*
+    access_secret: *access_password*
+    ```
 1. Use tweet.py to post messages!
+
+```
+./tweet.py "Integrity-check results: blah blah"
+```
