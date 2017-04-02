@@ -1,7 +1,7 @@
 # integrity_check
 An attempt to check the integrity of public...
 
-Monitors diavgeia.gov.gr for new "decisions", checks their integrity and publishes the results on a twitter account.
+Monitors diavgeia.gov.gr for new "decisions", checks their integrity and publishes the results on [twitter](https://twitter.com/integrity_calc).
 
 Created during the [Public Integrity Hackathon](http://www.oecd.org/gov/ethics/public-integrity-hackathon.htm) organized by OECD.
 
